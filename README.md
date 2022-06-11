@@ -7,11 +7,11 @@ Setup Preparation
 in there i used Anaconda and make virtual Environment is 'covid_test' Then we run the venv
 
 2. Then Install some Library with pip
-pip install google-cloud-bigquery
-pip install streamlit
+- pip install google-cloud-bigquery
+- pip install streamlit
 
 3. Then We Run app.py with command
-python -m streamlit run app.py
+- python -m streamlit run app.py
 
 4. Then we can see in browser like this
 
