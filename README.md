@@ -24,11 +24,11 @@ Anwer Number 2 :
 
 
 Code file explanation :
-app.py = main file to load the website
-multiapp.py = file code to make pages the script
-apps/number1.py = file code to answer question number 1
-apps/number2.py = file code to answer question number 2
-apps/service_account = file code to connect with bigquery
-apps/src/answer_sql1.sql = query file to answer question number 1
-apps/src/answer_sql2.sql = query file to answer question number 2
-apps/src/prestient-8c5720286412.json = key file, we get this from google service account
+1. app.py = main file to load the website
+2. multiapp.py = file code to make pages the script
+3. apps/number1.py = file code to answer question number 1
+4. apps/number2.py = file code to answer question number 2
+5. apps/service_account = file code to connect with bigquery
+6. apps/src/answer_sql1.sql = query file to answer question number 1
+7. apps/src/answer_sql2.sql = query file to answer question number 2
+8. apps/src/prestient-8c5720286412.json = key file, we get this from google service account
